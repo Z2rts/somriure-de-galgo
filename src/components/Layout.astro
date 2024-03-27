@@ -1,0 +1,72 @@
+---
+const { title, pageDescription } = Astro.props.frontmatter || Astro.props;
+// import "../styles.css"
+---
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content={pageDescription}>
+  <title>{title}</title>
+  <meta name="pageDescription" content={pageDescription} />
+</head>
+  <body> 
+    <img class="logo" src="/logo.png" alt="logo">
+    <slot />
+  </body>
+  <span>
+    <a href="/">
+      <img loading="lazy" width="250" height="30" src="/tornarALaPortada.png" alt="Tornar a la portada">
+    </a>
+  </span>
+  <footer>
+    Desenvolupat per z2rts 2024
+  </footer>
+</html>
+
+<style>
+  /* :root {
+    color-scheme: light dark;
+  }
+  h1 {
+    color: light-dark(green, red);
+  } */
+	body {
+    font-family: "Courier New", Courier, monospace;
+    font-size: large;
+		text-align:  justify;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 10%;
+    background: whitesmoke;
+	}
+  a {
+    border: 1px solid black;
+	  border-radius: 2px 2px 2px 2px;
+	  cursor: pointer;
+    box-shadow: 1px 0px 2px 1px #333;
+    padding-top: 10px;
+    display: block;
+    width: fit-content;
+    margin: 30px auto;
+    text-align: center; 
+  }
+  footer {
+    font-size: small;
+    bottom: 10px;
+    margin-top: 5%;
+    position: relative;
+    text-align: center;
+  }
+  .logo {
+    position: relative;
+    text-align: center;
+    padding: 16px;
+    margin: 0;
+    width: 80%;
+    top: 0;
+    left: 0;
+  }
+</style>

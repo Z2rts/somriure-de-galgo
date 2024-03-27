@@ -1,0 +1,64 @@
+a {
+	font-size: x-large;
+	text-decoration-line: none;
+	color: rgba(1, 4, 7, 0.918);
+}
+.container {
+	display: grid;
+	grid-template-columns: 350px 350px;
+	gap: 20px;
+	place-content: center;
+	margin-bottom: 15%;
+  margin-top: 5%;
+}
+@media (max-width: 800px) {
+	.container {
+		grid-template-columns: 1fr;
+	}
+}
+.containerBox {
+	border: 1px solid black;
+	border-radius: 0px 5px 5px 5px;
+	padding: 5px;
+	cursor: pointer;
+}
+.label {
+	height: 25px;
+	width: 150px;
+	color: rgb(216, 200, 200);
+	background-color: rgba(31, 23, 23, 0.87);
+	text-shadow: 1px 1px 1px gray;
+	text-transform: uppercase;
+	line-height: 1.5;
+}
+.enlac {
+	text-decoration: none;
+	font-weight: bold;
+}
+.logo {
+	mask-image: linear-gradient(to bottom, black 35%, transparent 100%);
+	width: 300px;
+	height: 70px;
+}
+body {
+	font-family: Courier;
+	text-align: center;
+	background: whitesmoke;
+}
+#maquina-de-escribir span {
+	font-size: 600%;
+	color: #181a12d3;
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
+	animation: escribir 4s steps(20, end);
+  margin-top: 5%;
+}
+@keyframes escribir {
+  from {
+    width: 0;
+  }
+  to {
+    width: 95%;
+  }
+}

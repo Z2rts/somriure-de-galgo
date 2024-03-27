@@ -1,0 +1,36 @@
+---
+const { frontmatter, url } = Astro.props;
+const { title, author, image, description, category } = frontmatter;
+import { Image } from "astro:assets";
+import "../styles.css";
+---
+
+<div class="card">
+  <section class="label">
+    {category} 
+  </section>
+  <section class="containerBox">
+    <a href={url}>
+      <h4 class="enlac">{title}</h4>
+        <Image 
+          loading="lazy" 
+          width={image.width} 
+          height={image.height}
+          src={image.src} 
+          alt={image.alt}
+        />
+      <span class="text">{description}</span>
+      <div>
+        <small>Per <strong>{author}</strong></small>
+      </div>
+    </a>
+  </section>
+</div>
+
+<style>
+.text {
+  float: right;
+  min-height: auto;
+  margin: 0 20px 0 0;
+}
+</style>
