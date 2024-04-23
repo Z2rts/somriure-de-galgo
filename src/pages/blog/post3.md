@@ -1,45 +1,26 @@
 ---
 layout: ../../components/Layout.astro
 
-title: "Musica Gotica"
-pageTitle: "Musica Gotica"
-pageDescription: "Musica Gotica"
-author: Esther Mir
+title: "El Cuervo (2024)"
+pageTitle: "El Cuervo (2024)"
+
+author: Ester Mir
 image: {
-  src: "/siouxie.webp",
-  alt: "fot del grup de rock souxie",
-  width: "158",
-  height: "118"
+  src: "https://images5.alphacoders.com/523/thumb-1920-523108.jpg",
+  alt: "Cartell de cinema de la pel.licula el Cuervo",
+  width: "197",
+  height: "100"
 }
-description: Parlant de la musica gotica
-category: Musica
+description: Critica de la nova pel.licula del el Cuervo
+category: Cinema
 ---
 
-Segurament que mai hauràs sentit esmentar la música gòtica, encara que no sigui la teva preferida en si o mai hagis escoltat una cançó d"aquest gènere. Aquest estil abasta principalment diversos subgèneres que solen escoltar els qui pertanyen a aquesta cultura i que en si deriven del rock.En aquesta ocasió et parlem una mica sobre les diferents classes que abasta, així com alguns grups que són considerats els millors en aquest àmbit.
+"El Cuervo (2024)", el remake d"una de les pel·lícules més conegudes dels 90 estrena el primer tráiler
 
-La música gòtica com a part d"una cultura
-El moviment gòtic s"ha caracteritzat per ser una forma d"expressió per als seus integrants. Basant el seu estil de vida en la literatura i el cinema sobrenatural i d"horror, els gòtics han definit una estètica i un gust força particulars. La música forma especial part d"aquesta subcultura i també presenta característiques molt especials, entre les quals es troben les següents:
-Lletres fosques, que parlen de temes com la mort, criatures com vampirs, apareguts o llicantròpos, entre d"altres; i en menor mesura els sentiments.
-Ritmes que barregen el rock amb sons ambientals i tètrics, així com amb instruments musicals clàssics.
+La nova versió d""El Cuervo", protagonitzada per Bill Skarsgard, (conegut pel seu paper com el pallasso Pennywise a les dues pel·lícules més actuals d"It), no va estar exempta de polèmica, com també les primeres imatges que van aparèixer a la xarxa del personatge, ja que a molts els recordava en excés el Joker de Batman. Però, tot i així, la pel·lícula ha creat força expectació. Una hipérbole que possiblement pugui després de veure el primer tráiler que ha presentat Lionsgate Movies. A nivell estètic aquesta nova versió és molt similar a la pel·lícula original, amb una ambientació fosca i tètrica i amb molta sang. La pel·lícula està dirigida per Rupert Sanders i acompanyant Skarsgård com a protagonista tenim FKA Twigs, que interpreta Shelly Webster, la núvia assassinada de "El Cuervo". Tranquils, no és un spoiler, surt al tràiler i a la sinopsi de la pel·lícula. D"altra banda, tot sembla indicar que aquesta nova versió explotarà una mica més la relació amorosa entre els protagonistes, cosa que no vam veure en el clàssic.
 
-Gèneres de música gòtica
-La música gòtica està dividida en allò que principalment, són tres gèneres diferents:
-Rock gòtic. Es caracteritza per involucrar sons que són característics del rock i que vénen molt sovint del glam rock i el post punk. Es diu que és gòtic, perquè presenta una marcada preferència per tot allò que és fosc i sinistre.
-Deathrock. És una barreja entre el glam rock i un tipus musical derivat del punk rock i el post punk. Al principi no formava part del gòtic, sinó que va arribar a incorporar-se després.
-Darkwave. Aquest gènere va sorgir als anys setanta i es va caracteritzar per la utilització de lletres més profundes, amb arranjaments instrumentals de fons que reflecteixen un aire lúgubre i de lamentació.
+Si no heu vist la versió dels 90 us podem dir que la pel·lícula, tal com es veu al tràiler, explica la història d"Eric Draven i Shelly Websyter, una parella que està a punt de casar-se. Però la nit abans de l"enllaç són assassinats brutalment. Un any després que Eric i la seva promesa fossin assassinats, un corb místic torna Eric a la vida perquè pugui buscar la seva venjança.
 
-Alguns grups de música gòtica
-Igual que en tots els gèneres, el gòtic també compta amb força exponents que potser fins i tot tu coneguis o hagis vist en alguna ocasió. A continuació, et mostrem quins són els millors per mi, amb les quals et pots fer una idea de tot el que conté aquest estil.
+A "El Cuervo (2024)" ens trobarem també amb altres cares conegudes, com Danny Huston o Laura Birn. La pel·lícula ha comptat amb un pressupost de 50 milions de dòlars i s"espera que sigui tot un èxit de taquilla. Si no passa res d"estrany, aquest remake arribarà als cinemes el proper 7 de juny de 2024. Què us ha semblat el tràiler? Teniu ganes de veure aquesta nova versió de "El Cuervo"?
 
-Sisters of mercy
-
-Joy Division
-
-Siouxie and the bashes
-
-The Mission
-
-Clan of xymox
-
--------------------------------------------------------------------------------------------
 Esther Mir

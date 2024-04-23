@@ -1,29 +1,45 @@
 ---
 layout: ../../components/Layout.astro
 
-pageTitle: "Economia Col.lectiva"
-pageDescription: "Economia Col.lectiva"
-
-title: "Economia Col.lectiva"
-author: Galgo
+title: "Musica Gotica"
+pageTitle: "Musica Gotica"
+pageDescription: "Musica Gotica"
+author: Esther Mir
 image: {
-  src: "/economia.webp",
-  alt: "cartell del documental Economia Col.lectiva",
-  width: "125",
-  height: "187"
+  src: "/siouxie.webp",
+  alt: "fot del grup de rock souxie",
+  width: "158",
+  height: "118"
 }
-description: Documental
-category: Cinema
+description: Parlant de la musica gotica
+category: Musica
 ---
 
-Economia col·lectiva. L'última revolució d"Europa és un documental de divulgació històrica que aprofundeix en l'expropiació i la gestió obrera del 80% de les indústries i serveis que va tenir lloc a Catalunya entre els anys 1936 i 1939.
+Segurament que mai hauràs sentit esmentar la música gòtica, encara que no sigui la teva preferida en si o mai hagis escoltat una cançó d"aquest gènere. Aquest estil abasta principalment diversos subgèneres que solen escoltar els qui pertanyen a aquesta cultura i que en si deriven del rock.En aquesta ocasió et parlem una mica sobre les diferents classes que abasta, així com alguns grups que són considerats els millors en aquest àmbit.
 
-El documental, dirigit per Eulàlia Comas, compta amb entrevistes a testimonis i coneixedors d'aquestperíode com Antoni Castells, Miquel Izard, FrancescCabana, Pelai Pagès, Joan Ullés, Jordi Viader, EudaldVila o Conxita Julià. Al llarg dels seus 66 minuts, eldocumental mostra imatges, fotografies i documents del'època procedents de diferents arxius.
+La música gòtica com a part d"una cultura
+El moviment gòtic s"ha caracteritzat per ser una forma d"expressió per als seus integrants. Basant el seu estil de vida en la literatura i el cinema sobrenatural i d"horror, els gòtics han definit una estètica i un gust força particulars. La música forma especial part d"aquesta subcultura i també presenta característiques molt especials, entre les quals es troben les següents:
+Lletres fosques, que parlen de temes com la mort, criatures com vampirs, apareguts o llicantròpos, entre d"altres; i en menor mesura els sentiments.
+Ritmes que barregen el rock amb sons ambientals i tètrics, així com amb instruments musicals clàssics.
 
-Estrenat el 2014 al Centre de Cultura Contemporània de Barcelona (CCCB). Actualment es pot veure a través de la plataforma de cinema independent Filmin i en DVD en l'idioma original, el català, i subtitulat al castellà, l'anglès, el francès, l'alemany i el japonès.
+Gèneres de música gòtica
+La música gòtica està dividida en allò que principalment, són tres gèneres diferents:
+Rock gòtic. Es caracteritza per involucrar sons que són característics del rock i que vénen molt sovint del glam rock i el post punk. Es diu que és gòtic, perquè presenta una marcada preferència per tot allò que és fosc i sinistre.
+Deathrock. És una barreja entre el glam rock i un tipus musical derivat del punk rock i el post punk. Al principi no formava part del gòtic, sinó que va arribar a incorporar-se després.
+Darkwave. Aquest gènere va sorgir als anys setanta i es va caracteritzar per la utilització de lletres més profundes, amb arranjaments instrumentals de fons que reflecteixen un aire lúgubre i de lamentació.
 
-El llargmetratge ha rebut diversos guardons: Best Documentary Film Editing de Amsterdam Film Festival (Nova York, 2014). Award of Merit: documentary feature de l"Accolade Global Film Competition (Califòrnia, novembre 2014), Best Documentary i Best Director Documentary de Oregon Underground Film Festival (Oregon, 2014) ...
+Alguns grups de música gòtica
+Igual que en tots els gèneres, el gòtic també compta amb força exponents que potser fins i tot tu coneguis o hagis vist en alguna ocasió. A continuació, et mostrem quins són els millors per mi, amb les quals et pots fer una idea de tot el que conté aquest estil.
 
-Part del material recopilat durant el procés d'investigació del documental forma part de la mostra “La Revolució Silenciada: Les col·lectivitzacions industrials i de serveis 1936-39” dins l'exposició col·lectiva “Jo em rebel·lo. Nosaltres exisitim” produïda per la Fundació Palau, guardonada amb el premi ACCA (Associació Catalana de Crítics d"Art) a la millor exposició d'art contemporani de l'any 2013.
+Sisters of mercy
 
-El treball ha estat parcialment finançat a través de la plataforma de micromecentage Verkami. I han col.laborat les entitats: CCCB i la CNT. que ha cedit moltes de les imatges que es mostren al documental. 
+Joy Division
+
+Siouxie and the bashes
+
+The Mission
+
+Clan of xymox
+
+-------------------------------------------------------------------------------------------
+Esther Mir

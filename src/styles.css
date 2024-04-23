@@ -35,18 +35,19 @@ a {
 	text-decoration: none;
 	font-weight: bold;
 }
-.logo {
+/* .logo {
 	mask-image: linear-gradient(to bottom, black 35%, transparent 100%);
 	width: 300px;
 	height: 70px;
-}
+} */
 body {
 	font-family: Courier;
 	text-align: center;
 	background: whitesmoke;
 }
 #maquina-de-escribir span {
-	font-size: 600%;
+	/* font-size: 600%; */
+	font-size: 200%;
 	color: #181a12d3;
 	display: inline-block;
 	overflow: hidden;

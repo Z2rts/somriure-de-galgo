@@ -1,6 +1,5 @@
 ---
 const { title, pageDescription } = Astro.props.frontmatter || Astro.props;
-// import "../styles.css"
 ---
 
 <!DOCTYPE html>
@@ -17,7 +16,7 @@ const { title, pageDescription } = Astro.props.frontmatter || Astro.props;
     <slot />
   </body>
   <span>
-    <a href="/">
+    <a href="/blog">
       <img loading="lazy" width="250" height="30" src="/tornarALaPortada.png" alt="Tornar a la portada">
     </a>
   </span>
@@ -27,12 +26,6 @@ const { title, pageDescription } = Astro.props.frontmatter || Astro.props;
 </html>
 
 <style>
-  /* :root {
-    color-scheme: light dark;
-  }
-  h1 {
-    color: light-dark(green, red);
-  } */
 	body {
     font-family: "Courier New", Courier, monospace;
     font-size: large;

@@ -1,83 +1,22 @@
 ---
 layout: ../../components/Layout.astro
 
-title: "El loco"
-pageTitle: "El loco"
-author: Machado
+title: "David Fincher"
+pageTitle: "David Fincher"
+pageDescription: "David Fincher"
+author: Esther Mir
 image: {
-  src: "/loco.webp",
-  alt: "El loco de Pablo Ruiz Picaso",
-  width: "56",
-  height: "150"
+  src: "https://www.thefilmagazine.com/wp-content/uploads/2021/04/David-Fincher-Movies-Ranked.jpg",
+  alt: "films",
+  width: "250",
+  height: "118"
 }
-description: Poema de Machado
-category: Poesia
+description: David Fincher. Director de cimena.
+category: Cinema
 ---
 
-  Es una tarde mustia y desabrida
+David Fincher neix a Denver (Colorado, Estats Units) el 28 d'agost del 1962. En la seva adolescència es trasllada amb la seva família a Oregon i es gradua a l'Ashland High School comptant ja amb nombrosos films casolans realitzats amb una càmera de 8mm. La seva passió pel cinema el porta a dirigir-se a la companyia de George Lucas, Industrial Light and Magic, només completar els seus estudis i és allà on comença a participar en la producció d'algunes pel·lícules sent el seu debut a La guerra de les Galàxies. El retorn del Jedi' el 1983.
 
-de un otoño sin frutos, en la tierra
+A partir de llavors Fincher comença a treballar en anuncis i vídeos musicals durant gairebé 10 anys. En aquest període, el 1992, va tenir lloc el seu debut com a director a la gran pantalla amb 'Alien 3'. El 1995 dirigeix 'Seven (Se7en)', film que, protagonitzat per Brad Pitt i Morgan Freeman, adquiriria un gran èxit mundial. A partir d'aquest moment comença una època daurada per a Fincher que dirigeix els èxits The Game i el Club de la lluita (Fight Club) el 1997 i 1999 respectivament.
 
-estéril y raída
-
-donde la sombra de un centauro yerra.
-
-  Por un camino en la árida llanura,
-
-entre álamos marchitos,
-
-a solas con su sombra y su locura
-
-va el loco, hablando a gritos.
-
-  Lejos se ven sombríos estepares,
-
-colinas con malezas y cambrones,
-
-y ruinas de viejos encinares,
-
-coronando los agrios serrijones.
-
-  El loco vocifera
-
-a solas con su sombra y su quimera.
-
-Es horrible y grotesta su figura;
-
-flaco, sucio, maltrecho y mal rapado,
-
-ojos de calentura
-
-iluminan su rostro demacrado.
-
-  Huye de la ciudad... Pobres maldades,
-
-misérrimas virtudes y quehaceres
-
-de chulos aburridos, y ruindades
-
-de ociosos mercaderes.
-
-  Por los campos de Dios el loco avanza.
-
-Tras la tierra esquelética y sequiza,
-
-_ rojo de herrumbre y pardo de ceniza _
-
-hay un sueño de lirio en lontananza.
-
-  Huye de la ciudad. ¡El tedio urbano!
-
-_ carne triste y espíritu villano! _.
-
-  No fue por una trágica amargura
-
-esta alma errante desgajada y rota;
-
-purga un pecado ajeno: la cordura,
-
-la terrible cordura del idiota.
-
---------------------------------
-
-Antonio Machado
+Després de dirigir diversos títols com 'L'habitació del pànic' o 'Zodiac', el treball de Fincher torna a ser objecte d'un gran reconeixement mundial gràcies a 'El curiós cas de Benjamin Button (The Curious Case of Benjamin Button)', pel·lícula que dirigeix el 2008 i que suposa la seva primera nominació a l'Oscar. Només dos anys després, Fincher torna a ser candidat a l'obtenció de l'estatueta per 'La red social', pel·lícula per la qual rebria grans crítiques.

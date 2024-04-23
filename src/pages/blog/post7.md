@@ -1,26 +1,83 @@
 ---
 layout: ../../components/Layout.astro
 
-title: "El Cuervo (2024)"
-pageTitle: "El Cuervo (2024)"
-
-author: Ester Mir
+title: "El loco"
+pageTitle: "El loco"
+author: Machado
 image: {
-  src: "https://images5.alphacoders.com/523/thumb-1920-523108.jpg",
-  alt: "Cartell de cinema de la pel.licula el Cuervo",
-  width: "197",
-  height: "100"
+  src: "/loco.webp",
+  alt: "El loco de Pablo Ruiz Picaso",
+  width: "56",
+  height: "150"
 }
-description: Critica de la nova pel.licula del el Cuervo
-category: Cinema
+description: Poema de Machado
+category: Poesia
 ---
 
-"El Cuervo (2024)", el remake d"una de les pel·lícules més conegudes dels 90 estrena el primer tráiler
+  Es una tarde mustia y desabrida
 
-La nova versió d""El Cuervo", protagonitzada per Bill Skarsgard, (conegut pel seu paper com el pallasso Pennywise a les dues pel·lícules més actuals d"It), no va estar exempta de polèmica, com també les primeres imatges que van aparèixer a la xarxa del personatge, ja que a molts els recordava en excés el Joker de Batman. Però, tot i així, la pel·lícula ha creat força expectació. Una hipérbole que possiblement pugui després de veure el primer tráiler que ha presentat Lionsgate Movies. A nivell estètic aquesta nova versió és molt similar a la pel·lícula original, amb una ambientació fosca i tètrica i amb molta sang. La pel·lícula està dirigida per Rupert Sanders i acompanyant Skarsgård com a protagonista tenim FKA Twigs, que interpreta Shelly Webster, la núvia assassinada de "El Cuervo". Tranquils, no és un spoiler, surt al tràiler i a la sinopsi de la pel·lícula. D"altra banda, tot sembla indicar que aquesta nova versió explotarà una mica més la relació amorosa entre els protagonistes, cosa que no vam veure en el clàssic.
+de un otoño sin frutos, en la tierra
 
-Si no heu vist la versió dels 90 us podem dir que la pel·lícula, tal com es veu al tràiler, explica la història d"Eric Draven i Shelly Websyter, una parella que està a punt de casar-se. Però la nit abans de l"enllaç són assassinats brutalment. Un any després que Eric i la seva promesa fossin assassinats, un corb místic torna Eric a la vida perquè pugui buscar la seva venjança.
+estéril y raída
 
-A "El Cuervo (2024)" ens trobarem també amb altres cares conegudes, com Danny Huston o Laura Birn. La pel·lícula ha comptat amb un pressupost de 50 milions de dòlars i s"espera que sigui tot un èxit de taquilla. Si no passa res d"estrany, aquest remake arribarà als cinemes el proper 7 de juny de 2024. Què us ha semblat el tràiler? Teniu ganes de veure aquesta nova versió de "El Cuervo"?
+donde la sombra de un centauro yerra.
 
-Esther Mir
+  Por un camino en la árida llanura,
+
+entre álamos marchitos,
+
+a solas con su sombra y su locura
+
+va el loco, hablando a gritos.
+
+  Lejos se ven sombríos estepares,
+
+colinas con malezas y cambrones,
+
+y ruinas de viejos encinares,
+
+coronando los agrios serrijones.
+
+  El loco vocifera
+
+a solas con su sombra y su quimera.
+
+Es horrible y grotesta su figura;
+
+flaco, sucio, maltrecho y mal rapado,
+
+ojos de calentura
+
+iluminan su rostro demacrado.
+
+  Huye de la ciudad... Pobres maldades,
+
+misérrimas virtudes y quehaceres
+
+de chulos aburridos, y ruindades
+
+de ociosos mercaderes.
+
+  Por los campos de Dios el loco avanza.
+
+Tras la tierra esquelética y sequiza,
+
+_ rojo de herrumbre y pardo de ceniza _
+
+hay un sueño de lirio en lontananza.
+
+  Huye de la ciudad. ¡El tedio urbano!
+
+_ carne triste y espíritu villano! _.
+
+  No fue por una trágica amargura
+
+esta alma errante desgajada y rota;
+
+purga un pecado ajeno: la cordura,
+
+la terrible cordura del idiota.
+
+--------------------------------
+
+Antonio Machado
